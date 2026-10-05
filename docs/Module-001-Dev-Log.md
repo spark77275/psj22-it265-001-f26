@@ -6,13 +6,14 @@
 ### Date: [MM/DD/YYYY]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
+<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off -->
 - [ ] Decide the gameplay format/genre/style
 - [ ] Come up with ideas for characters, even if generic
-- [ ] N/A
--->
+- [x] Finish this assignment
+<!--
 - [ ] Example pending goal
 - [x] Example completed goal
+-->
 
 #### Progress
 - **What I accomplished**:
