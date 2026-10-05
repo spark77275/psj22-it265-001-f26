@@ -2,35 +2,33 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Starlight Studios
+  - Starbright Studios
+  - Dreamlight Entertainment 
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
+  - Starlight Starbright
+  - Starlit Visions
   - [Insert alternative name idea 3]
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- Starlight SB
+- A wish a upon a star tonight
+- As of right now no domains use this:
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
-
-> [Write a concise and inspiring vision statement here.]
+Something to appeal to people's inner child
+> 
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- People (developers) come before product
+- Players should be free to experiment
+- Players should be able to have fun with their choices outside of whichever choice is "objectively better"
 
 ---
 
@@ -47,26 +45,27 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Player vs (PvP and PvE)
+- Hybrid genres with mixing of mechanics for more dynamic gameplay
+- Probably leaning more into fantasy
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> Unique hybrid mechanics with dynamic gameplay and quick decisions paired with player creativity and innovation.
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity?
+- **Art Tools:** Aesprite?
+- **Audio Tools:** FL Studio
+- **Version Control:** Good question
+- **Publishing Platforms:** Itch.io
 
 ---
 
@@ -75,15 +74,14 @@
 
 - **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - Where dreams meet reality
+  - A wish upon a dream
 
 -- **Sketches/Logo**:
 
 ---
 
 ## Additional Notes
-*Include any other ideas, inspirations, or thoughts related to your studio or project.*
+I used to play all kinds of games with my toys, LEGOs, and plushies as a child. I want to make something that represents that. WHo knows when though.
 
 > [Free space for brainstorming!]
