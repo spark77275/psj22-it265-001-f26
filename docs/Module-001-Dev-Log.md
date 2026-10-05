@@ -10,8 +10,8 @@
 - [ ] Decide the gameplay format/genre/style
 - [ ] Come up with ideas for characters, even if generic
 - [x] Finish this assignment
-<!--
-- [ ] Example pending goal
+
+<!-- - [ ] Example pending goal
 - [x] Example completed goal
 -->
 
