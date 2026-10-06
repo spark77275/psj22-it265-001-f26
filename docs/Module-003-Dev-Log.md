@@ -39,11 +39,11 @@
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 >- The game will need dice/and or a calculator, also physical cards and a pretty in depth rulebook at least for the board game version
 >- How to balance player v player interactions and how the endgame progresses.
+>- Card Combos?
+>- Potential tag team format?
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 >-  Come up with even more ideas for specific cards, mechanics, passives, and characters
 >- Maybe come up with actual physical cards
 >- Could make a very rough alpha just to get an idea of gameplay feel and what I want it to be
->- Card Combos?
->- Potential tag team format?
