@@ -20,8 +20,8 @@
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   > Came up with a new stat that determines what changes as the game progresses.
-  > Up with the idea of a passive for the axe beserker character
-  This character will be very strong in clashes, eg. higher chance of success and/or lower penalty for losing, card refund for winning
+  > Came up with the idea of a passive for the axe beserker character
+  > This character will be very strong in clashes, eg. higher chance of success and/or lower penalty for losing, card refund for winning
   > Came up with ideas for individual cards and special mechanics per card.
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
