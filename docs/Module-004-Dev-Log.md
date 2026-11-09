@@ -18,14 +18,16 @@
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   >- There will be equipment/weapon cards, hex (magic) cards, action/reaction cards, and ability cards
-  >- 
+  >- Actions, reactions, and hexes will have costs
+  >- The cost will be points that replenish a little bit each turn, dependent on the character's stats.
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   > I forgot to work on it
-  > 
+  > How do I indicate certain attributes clearly on a card?
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   > I've once again decided the best way to go about making this is to just do it
+  > I've decided to base the card format of of Magic the Gathering cards
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
